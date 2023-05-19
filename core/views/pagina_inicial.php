@@ -4,3 +4,5 @@
     <li><?= $cliente ?></li>
 <?php endforeach;?>
 </ul>
+
+<h1><i class="fas fa-trash"></i></h1>
