@@ -3,8 +3,8 @@
 //coleção de rotas
 $rotas = [
     'inicio' => 'main@index',
-    'loja' => 'main@loja',
-    'carrinho' => 'loja@carrinho'
+    'loja' => 'main@loja'
+
 ];
 
 //define uma ação por defeito
