@@ -1,0 +1,17 @@
+{
+    "name": "jmarcioferreirasilva/webstore",
+    "description": "Loja OnLine em PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose Marcio Ferreira da Silva",
+            "email": "jmarciosilva@gmail.com"
+        }
+    ],
+    "require": {}
+}
